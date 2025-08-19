@@ -1,10 +1,10 @@
-package com.projects.jobsearch;
+package com.projects.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JobSearchApplicationTests {
+class TodoApplicationTests {
 
 	@Test
 	void contextLoads() {
